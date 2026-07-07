@@ -1,7 +1,7 @@
 [project]
 name = "phase0-smoke"
 version = "0.1.0"
-description = "Add your description here"
+description = "A program to read in csv file and convert to an sql table, then prints."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
