@@ -1,0 +1,10 @@
+[project]
+name = "phase0-smoke"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.3",
+    "psycopg[binary]>=3.3.4",
+]
